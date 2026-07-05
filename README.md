@@ -1,29 +1,31 @@
-<h1 data-importer="text" align="center">Hello👋 I'm Masuel Matos</h1>
+<h1 data-importer="text" align="center"><b>Hello👋 I'm Masuel Matos</b></h1>
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=1000&height=150&lines=Software+Quality+Engineer;API+Testing+%7C+Web+Automation+%7C+SQL;Delivering+High-Quality+Software" alt="Typing SVG" />
+</div>
 
 ###
 
-<h2 data-importer="text" align="left">🚀 About me</h2>
+<h2 data-importer="text" align="left"><b>🚀 About me</b></h2>
 
 ###
 
-<p data-importer="text" align="center">Computer Systems Engineer | QA Engineer<br>Passionate about ensuring software reliability through thorough testing and automation. Experienced in manual QA, functional validation, and defect identification, with solid knowledge of software development and databases. Currently focused on moving into QA Automation, building test suites and integrating them into CI/CD pipelines to make quality processes more efficient and scalable. Open to contributing to open source projects and creating reproducible, maintainable test code that improves coverage and confidence.</p>
+<p data-importer="text" align="center"><b>Computer Systems Engineer | QA Engineer</b><br>Passionate about ensuring software reliability through thorough testing and automation. Experienced in manual QA, functional validation, and defect identification, with solid knowledge of software development and databases. Currently focused on moving into QA Automation, building test suites and integrating them into CI/CD pipelines to make quality processes more efficient and scalable. Open to contributing to open source projects and creating reproducible, maintainable test code that improves coverage and confidence.</p>
 
 ###
 
-<h2 data-importer="text" align="left">🧰 Tech Stack</h2>
+<h2 data-importer="text" align="left"><b>🧰 Tech Stack</b>
+</h2>
 
 ###
 
-<p data-importer="text" align="center">💻 Languages<br>Python | SQL | C#<br><br>🧪 Automation<br>🎭 Playwright | Pytest<br><br>🔗 API Testing<br>REST APIs | Postman<br><br>🗄️ Database<br>SQL Server<br><br>🌿 Version Control<br>Git | GitHub</p>
+<p data-importer="text" align="center"><b>💻 Languages</b><br>Python | SQL | C#<br><br><b>🧪 Automation</b><br>🎭 Playwright | Pytest<br><br><b>🔗 API Testing</b><br>REST APIs | Postman<br><br><b>🗄️ Database</b><br>SQL Server<br><br><b>🌿 Version Control</b><br>Git | GitHub</p>
 
 ###
 
-<h2 data-importer="text" align="left">📊 GitHub Stats</h2>
+<h2 data-importer="text" align="left"><b>📊 GitHub Stats</b></h2>
 
 ###
 
@@ -33,7 +35,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">🌐 Connect With Me</h2>
+<h2 data-importer="text" align="left"><b>🌐 Connect With Me</b></h2>
 
 ###
 
