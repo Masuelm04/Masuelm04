@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center"><b>Hello👋 I'm Masuel Matos</b></h1>
+<h1 data-importer="text" align="center"><b>Hello,👋 I'm Masuel Matos</b></h1>
 
 ###
 
@@ -24,6 +24,19 @@
 <p data-importer="text" align="center"><b>💻 Languages</b><br>Python | SQL | C#<br><br><b>🧪 Automation</b><br>🎭 Playwright | Pytest<br><br><b>🔗 API Testing</b><br>REST APIs | Postman<br><br><b>🗄️ Database</b><br>SQL Server<br><br><b>🌿 Version Control</b><br>Git | GitHub</p>
 
 ###
+
+## 🏆 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/The_Complete_Prompt_Engineering_for_AI_Bootcamp-Udemy_2026-2E9BF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scrum_Fundamentals_Certified-VMEdu_2026-2E9BF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ReadyAPI_API_Test_Engineer_Expert-SmartBear_2026-2E9BF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Accredited_Scrum_Fundamentals-AICS_2024-2E9BF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tester-Capacítate_para_el_Empleo_2026-2E9BF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Foundational_C#_With_Microsoft-freeCodeCamp_2026-2E9BF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C%23_.NET_Intermedio-ITLA_2024-2E9BF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/English_Immersion_Program-MESCyT_2023-2E9BF7?style=flat-square"/>
+</div>
 
 <h2 data-importer="text" align="left"><b>📊 GitHub Stats</b></h2>
 
