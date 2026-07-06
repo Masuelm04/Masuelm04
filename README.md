@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/ReadyAPI_API_Test_Engineer_Expert-SmartBear_2026-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Accredited_Scrum_Fundamentals-AICS_2024-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Tester-Capacítate_para_el_Empleo_2026-2E9BF7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Foundational_C#_With_Microsoft-freeCodeCamp_2026-2E9BF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Foundational_C%23_With_Microsoft-freeCodeCamp_2026-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/C%23_.NET_Intermedio-ITLA_2024-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/English_Immersion_Program-MESCyT_2023-2E9BF7?style=flat-square"/>
 </div>
