@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/The_Complete_Prompt_Engineering_for_AI_Bootcamp-Udemy_2026-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Scrum_Fundamentals_Certified-VMEdu_2026-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/ReadyAPI_API_Test_Engineer_Expert-SmartBear_2026-2E9BF7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Accredited_Scrum_Fundamentals-AICS_2024-2E9BF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Accredited_Scrum_Fundamentals-AICS_2026-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Tester-Capacítate_para_el_Empleo_2026-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Foundational_C%23_With_Microsoft-freeCodeCamp_2026-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/C%23_.NET_Intermediate-ITLA_2024-2E9BF7?style=flat-square"/>
