@@ -28,6 +28,7 @@
 ## 🏆 Certifications
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Playwright_Power_Techniques_Fast_and_Reliable_Web_Testing-Coursera_2026-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/The_Complete_Prompt_Engineering_for_AI_Bootcamp-Udemy_2026-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Scrum_Fundamentals_Certified-VMEdu_2026-2E9BF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/ReadyAPI_API_Test_Engineer_Expert-SmartBear_2026-2E9BF7?style=flat-square"/>
