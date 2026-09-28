@@ -27,8 +27,6 @@
 
 ### 🌐 Portfolio
 
-Explore my QA Automation projects:
-
 <p align="center">
   <a href="https://masuelmatos.com/">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Visit%20Website-0A84FF?style=for-the-badge" alt="Visit My Portfolio"/>
