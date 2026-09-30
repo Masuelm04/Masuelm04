@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="center"><b>Computer Systems Engineer | QA Engineer</b><br>Passionate about ensuring software reliability through thorough testing and automation. Experienced in manual QA, functional validation, and defect identification, with solid knowledge of software development and databases. Currently focused on moving into QA Automation, building test suites and integrating them into CI/CD pipelines to make quality processes more efficient and scalable. Open to contributing to open source projects and creating reproducible, maintainable test code that improves coverage and confidence.</p>
+<p data-importer="text" align="center"><b>QA Engineer | QA Automation</b><br>Passionate about ensuring software reliability through thorough testing and automation. Experienced in manual QA, functional validation, test design, and defect identification, with a solid foundation in software development and databases. Focused on QA Automation, building robust and maintainable test suites with Playwright, Python, and Pytest, while applying API testing and CI/CD practices to make quality processes more efficient, reliable, and scalable. Open to continuous learning, contributing to automation projects, and creating reproducible test solutions that improve coverage and confidence.</p>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<p data-importer="text" align="center"><b>💻 Languages</b><br>Python | SQL | C#<br><br><b>🧪 Automation</b><br>🎭 Playwright | Pytest<br><br><b>🔗 API Testing</b><br>REST APIs | Postman<br><br><b>🗄️ Database</b><br>SQL Server<br><br><b>🌿 Version Control</b><br>Git | GitHub</p>
+<p data-importer="text" align="center"><b>💻 Languages</b><br>Python | SQL | C#<br><br><b>🧪 Automation</b><br>🎭 Playwright | Pytest<br><br><b>🔗 API Testing</b><br>REST APIs | Postman<br><br><b>🗄️ Database</b><br>SQL Server<br><br><b>🌿 Version Control</b><br>Git | GitHub<br><br><b>🛠️ Tools</b><br>Jira | Azure Devops | VS Code | GitHub Actions</p>
 
 ###
 
