@@ -21,7 +21,7 @@
 
 ###
 
-<p data-importer="text" align="center"><b>💻 Languages</b><br>Python | SQL | C#<br><br><b>🧪 Automation</b><br>🎭 Playwright | Pytest<br><br><b>🔗 API Testing</b><br>REST APIs | Postman<br><br><b>🗄️ Database</b><br>SQL Server<br><br><b>🌿 Version Control</b><br>Git | GitHub<br><br><b>🛠️ Tools</b><br>Jira | Azure Devops | VS Code | GitHub Actions</p>
+<p data-importer="text" align="center"><b>💻 Languages</b><br>TypeScript | Python | SQL | C#<br><br><b>🧪 Automation</b><br>🎭 Playwright | Pytest<br><br><b>🔗 API Testing</b><br>REST APIs | Postman<br><br><b>🗄️ Database</b><br>SQL Server<br><br><b>🌿 Version Control</b><br>Git | GitHub<br><br><b>🛠️ Tools</b><br>Jira | Azure Devops | VS Code | GitHub Actions</p>
 
 ###
 
